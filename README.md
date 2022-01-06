@@ -1,4 +1,4 @@
-### Hi 👋 I am Adil Mujeeb
+<h1 align="center"> Hi 👋 I am Adil Mujeeb </h1>
 
 <!--
 **adilmujeeb/adilmujeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
